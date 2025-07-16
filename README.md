@@ -20,16 +20,9 @@ I'm passionate about building meaningful tech, exploring new tools, and collabor
 
 ---
 
-## 🛠️ Projects Coming Soon
-- 🌸 Personal Portfolio Website
-- 📂 DSA Practice Repo (C++)
-- 📘 Open Source Contributions Tracker
-
----
-
 ## 📫 Connect with Me
-- 💼 [LinkedIn](#) *(Add your link here)*
-- 📚 [LeetCode](#) *(Optional)*
+- 💼 [LinkedIn](#) (https://www.linkedin.com/in/navya-rastogi-794483319/)
+- 📚 [LeetCode](#) (https://leetcode.com/u/navyarastogi972/)
 - 🐱 GitHub: [@navya-r972](https://github.com/navya-r972)
 
 ---
