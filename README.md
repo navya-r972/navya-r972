@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Navya! 👋
 
-<!--
-**navya-r972/navya-r972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergrad | 💻 Aspiring Developer | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+I'm passionate about building meaningful tech, exploring new tools, and collaborating on projects. Currently, I’m preparing for **GirlScript Summer of Code 2025**, while growing my skills in software development and open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages**: C++, Python, JavaScript
+- **Web Development**: HTML, CSS, React (learning)
+- **Tools & Platforms**: Git, GitHub, Netlify, VS Code
+
+---
+
+## 🌱 Currently Learning
+- Open Source Contribution Workflows
+- React.js and GitHub Projects
+- Data Structures & Algorithms (LeetCode, Codeforces)
+
+---
+
+## 🛠️ Projects Coming Soon
+- 🌸 Personal Portfolio Website
+- 📂 DSA Practice Repo (C++)
+- 📘 Open Source Contributions Tracker
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](#) *(Add your link here)*
+- 📚 [LeetCode](#) *(Optional)*
+- 🐱 GitHub: [@navya-r972](https://github.com/navya-r972)
+
+---
+
+✨ Let’s build, contribute, and grow together!
+
